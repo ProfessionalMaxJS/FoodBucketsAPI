@@ -3,29 +3,29 @@
     {
       "id": 1,
       "user": "Pema",
-      "Rname": "Five Senses",
+      "rname": "Five Senses",
       "address": "9 W 32nd St, New York, NY 10001",
-      "FavDish" : "Kimchi Fried Rice",
-      "Price" : "$25",
+      "favdish" : "Kimchi Fried Rice",
+      "price" : "$25",
       "image" : "https://ibb.co/8zDdvdp" 
       },
       {
       "id":2,
       "user":"Max",
-      "Rname": "Lhasa Fast Food",
+      "rname": "Lhasa Fast Food",
       "address": "76-03 37th Ave, Queens, NY 11372",
-      "FavDish" : "Chives Dumpling",
-      "Price" : "$8",
+      "favdish" : "Chives Dumpling",
+      "price" : "$8",
       "image" : "https://infatuation.imgix.net/media/images/reviews/lhasa-fast-food/NoahDevereaux_LhasaFastFood_013_ChiveBeefMomo.JPG?auto=format&h=890&w=1336" 
      },
      {
 
       "id":3,
       "user":"Okera",
-      "Rname": "Maman",
+      "rname": "Maman",
       "address": "375 Hudson St, New York, NY 10014",
-      "FavDish" : "ratatouille hash",
-      "Price" : "$16",
+      "favdish" : "ratatouille hash",
+      "price" : "$16",
       "image" : "https://www.everylastbite.com/wp-content/uploads/2020/03/DSC_0138-scaled.jpg" 
     }
    ]
