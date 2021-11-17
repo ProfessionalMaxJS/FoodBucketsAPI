@@ -3,92 +3,102 @@
     {
       "id": 1,
       "user": "Pema",
-      "rname": "Five Senses",
+      "rName": "Five Senses",
       "address": "9 W 32nd St, New York, NY 10001",
-      "favdish" : "Kimchi Fried Rice",
+      "favDish" : "Kimchi Fried Rice",
       "price" : "$25",
-      "image" : "https://ibb.co/8zDdvdp" 
+      "image" : "https://ibb.co/8zDdvdp",
+      "comment" : "2232" 
       },
       {
       "id":2,
       "user":"Max",
-      "rname": "Lhasa Fast Food",
+      "rName": "Lhasa Fast Food",
       "address": "76-03 37th Ave, Queens, NY 11372",
-      "favdish" : "Chives Dumpling",
+      "favDish" : "Chives Dumpling",
       "price" : "$8",
-      "image" : "https://infatuation.imgix.net/media/images/reviews/lhasa-fast-food/NoahDevereaux_LhasaFastFood_013_ChiveBeefMomo.JPG?auto=format&h=890&w=1336" 
-     },
+      "image" : "https://infatuation.imgix.net/media/images/reviews/lhasa-fast-food/NoahDevereaux_LhasaFastFood_013_ChiveBeefMomo.JPG?auto=format&h=890&w=1336", 
+      "comment": ""
+    },
      {
       "id":3,
       "user":"Okera",
-      "rname": "Maman",
+      "rName": "Maman",
       "address": "375 Hudson St, New York, NY 10014",
-      "favdish" : "ratatouille hash",
+      "favDish" : "ratatouille hash",
       "price" : "$16",
-      "image" : "https://www.everylastbite.com/wp-content/uploads/2020/03/DSC_0138-scaled.jpg" 
+      "image" : "https://www.everylastbite.com/wp-content/uploads/2020/03/DSC_0138-scaled.jpg", 
+      "comment": ""
     },
     {
       "id":4,
       "user":"Pema",
-      "rname": "Mamoun's",
+      "rName": "Mamoun's",
       "address": "119 MacDougal St, New York, NY 10012",
-      "favdish" : "falafel",
+      "favDish" : "falafel",
       "price" : "$5.49",
-      "image" : "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/60ef265b44f3fFalafel_Sandwich_V2.jpg" 
+      "image" : "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/60ef265b44f3fFalafel_Sandwich_V2.jpg", 
+      "comment": ""
     },
     {
       "id":5,
       "user":"Max",
-      "rname": "KFC",
+      "rName": "KFC",
       "address": "242 E 14th St, New York, NY 10003",
-      "favdish" : "Mashed Potato Bowl",
+      "favDish" : "Mashed Potato Bowl",
       "price" : "$4",
-      "image" : "https://www.fastfoodcalories.com/wp-content/uploads/2019/04/KFC-Famous-Bowl.jpg" 
+      "image" : "https://www.fastfoodcalories.com/wp-content/uploads/2019/04/KFC-Famous-Bowl.jpg", 
+      "comment": ""
     },
     {
       "id":6,
       "user":"Okera",
-      "rname": "Buckethead",
+      "rName": "Buckethead",
       "address": "375 Hudson St, New York, NY 10014",
-      "favdish" : "ratatouille hash",
+      "favDish" : "ratatouille hash",
       "price" : "$8",
-      "image" : "https://ksassets.timeincuk.net/wp/uploads/sites/55/2017/10/GettyImages-72291000-920x584.jpg" 
+      "image" : "https://ksassets.timeincuk.net/wp/uploads/sites/55/2017/10/GettyImages-72291000-920x584.jpg", 
+      "comment": ""    
     },
     {
       "id":7,
       "user":"Pema",
-      "rname": "Peter Luger Steakhouse",
+      "rName": "Peter Luger Steakhouse",
       "address": "178 Broadway, Brooklyn, NY 11211",
-      "favdish" : "porterhouse steak",
+      "favDish" : "porterhouse steak",
       "price" : "$45",
-      "image" : "https://i.redd.it/3c3ct8rb2nwz.png" 
+      "image" : "https://i.redd.it/3c3ct8rb2nwz.png", 
+      "comment": ""
     },
     {
       "id":8,
       "user":"Max",
-      "rname": "Les Caves Bier & Kitchen",
+      "rName": "Les Caves Bier & Kitchen",
       "address": "308 SW 3rd St, Corvallis, OR 97333",
-      "favdish" : "Bier-Chiese Soup",
+      "favDish" : "Bier-Chiese Soup",
       "price" : "$10",
-      "image" : "https://media-cdn.tripadvisor.com/media/photo-p/0b/e8/ff/57/les-caves.jpg" 
+      "image" : "https://media-cdn.tripadvisor.com/media/photo-p/0b/e8/ff/57/les-caves.jpg", 
+      "comment": ""
     },
     {
       "id":9,
       "user":"Okera",
-      "rname": "Pilot Kombucha",
+      "rName": "Pilot Kombucha",
       "address": "375 Hudson St, New York, NY 10014",
-      "favdish" : "ratatouille hash",
+      "favDish" : "ratatouille hash",
       "price" : "$16",
-      "image" : "https://www.everylastbite.com/wp-content/uploads/2020/03/DSC_0138-scaled.jpg" 
+      "image" : "https://www.everylastbite.com/wp-content/uploads/2020/03/DSC_0138-scaled.jpg", 
+      "comment": ""
     },
     {
       "id":10,
       "user":"Pema",
-      "rname": "Maman",
+      "rName": "Maman",
       "address": "845-288-3768",
-      "favdish" : "lemon ginger bouche",
+      "favDish" : "lemon ginger bouche",
       "price" : "$25",
-      "image" : "https://cdn.shopify.com/s/files/1/0528/1493/8282/files/Headshot_540x.jpg?v=1610414670" 
+      "image" : "https://cdn.shopify.com/s/files/1/0528/1493/8282/files/Headshot_540x.jpg?v=1610414670", 
+      "comment": ""
     }
   ]
 }
