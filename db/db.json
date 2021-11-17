@@ -7,7 +7,8 @@
       "address": "9 W 32nd St, New York, NY 10001",
       "favDish" : "Kimchi Fried Rice",
       "price" : "$25",
-      "image" : "https://ibb.co/8zDdvdp" 
+      "image" : "https://ibb.co/8zDdvdp",
+      "comment" : "2232" 
       },
       {
       "id":2,
@@ -16,8 +17,9 @@
       "address": "76-03 37th Ave, Queens, NY 11372",
       "favDish" : "Chives Dumpling",
       "price" : "$8",
-      "image" : "https://infatuation.imgix.net/media/images/reviews/lhasa-fast-food/NoahDevereaux_LhasaFastFood_013_ChiveBeefMomo.JPG?auto=format&h=890&w=1336" 
-     },
+      "image" : "https://infatuation.imgix.net/media/images/reviews/lhasa-fast-food/NoahDevereaux_LhasaFastFood_013_ChiveBeefMomo.JPG?auto=format&h=890&w=1336", 
+      "comment": ""
+    },
      {
       "id":3,
       "user":"Okera",
@@ -25,7 +27,8 @@
       "address": "375 Hudson St, New York, NY 10014",
       "favDish" : "ratatouille hash",
       "price" : "$16",
-      "image" : "https://www.everylastbite.com/wp-content/uploads/2020/03/DSC_0138-scaled.jpg" 
+      "image" : "https://www.everylastbite.com/wp-content/uploads/2020/03/DSC_0138-scaled.jpg", 
+      "comment": ""
     },
     {
       "id":4,
@@ -34,7 +37,8 @@
       "address": "119 MacDougal St, New York, NY 10012",
       "favDish" : "falafel",
       "price" : "$5.49",
-      "image" : "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/60ef265b44f3fFalafel_Sandwich_V2.jpg" 
+      "image" : "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/60ef265b44f3fFalafel_Sandwich_V2.jpg", 
+      "comment": ""
     },
     {
       "id":5,
@@ -43,7 +47,8 @@
       "address": "242 E 14th St, New York, NY 10003",
       "favDish" : "Mashed Potato Bowl",
       "price" : "$4",
-      "image" : "https://www.fastfoodcalories.com/wp-content/uploads/2019/04/KFC-Famous-Bowl.jpg" 
+      "image" : "https://www.fastfoodcalories.com/wp-content/uploads/2019/04/KFC-Famous-Bowl.jpg", 
+      "comment": ""
     },
     {
       "id":6,
@@ -52,7 +57,8 @@
       "address": "375 Hudson St, New York, NY 10014",
       "favDish" : "ratatouille hash",
       "price" : "$8",
-      "image" : "https://ksassets.timeincuk.net/wp/uploads/sites/55/2017/10/GettyImages-72291000-920x584.jpg" 
+      "image" : "https://ksassets.timeincuk.net/wp/uploads/sites/55/2017/10/GettyImages-72291000-920x584.jpg", 
+      "comment": ""    
     },
     {
       "id":7,
@@ -61,7 +67,8 @@
       "address": "178 Broadway, Brooklyn, NY 11211",
       "favDish" : "porterhouse steak",
       "price" : "$45",
-      "image" : "https://i.redd.it/3c3ct8rb2nwz.png" 
+      "image" : "https://i.redd.it/3c3ct8rb2nwz.png", 
+      "comment": ""
     },
     {
       "id":8,
@@ -70,7 +77,8 @@
       "address": "308 SW 3rd St, Corvallis, OR 97333",
       "favDish" : "Bier-Chiese Soup",
       "price" : "$10",
-      "image" : "https://media-cdn.tripadvisor.com/media/photo-p/0b/e8/ff/57/les-caves.jpg" 
+      "image" : "https://media-cdn.tripadvisor.com/media/photo-p/0b/e8/ff/57/les-caves.jpg", 
+      "comment": ""
     },
     {
       "id":9,
@@ -79,7 +87,8 @@
       "address": "375 Hudson St, New York, NY 10014",
       "favDish" : "ratatouille hash",
       "price" : "$16",
-      "image" : "https://www.everylastbite.com/wp-content/uploads/2020/03/DSC_0138-scaled.jpg" 
+      "image" : "https://www.everylastbite.com/wp-content/uploads/2020/03/DSC_0138-scaled.jpg", 
+      "comment": ""
     },
     {
       "id":10,
@@ -88,7 +97,8 @@
       "address": "845-288-3768",
       "favDish" : "lemon ginger bouche",
       "price" : "$25",
-      "image" : "https://cdn.shopify.com/s/files/1/0528/1493/8282/files/Headshot_540x.jpg?v=1610414670" 
+      "image" : "https://cdn.shopify.com/s/files/1/0528/1493/8282/files/Headshot_540x.jpg?v=1610414670", 
+      "comment": ""
     }
   ]
 }
