@@ -119,6 +119,36 @@
       "price": "10",
       "comment": "Goes great with strawberry lemonade!",
       "id": 12
+    },
+    {
+      "user": "Clark",
+      "rName": "Moinette",
+      "address": "221 Knickerbocker Ave, Brooklyn, NY 11237",
+      "favDish": "Salmon Bernaise",
+      "image": "https://images.squarespace-cdn.com/content/v1/5dfa653a930b9833ef36c5dc/1616788399782-NZHI7OADB7TT4DVFFUUG/IMG_0384.jpg?format=1000w",
+      "price": "25.49",
+      "comment": "excellent French food/brunch",
+      "id": 13
+    },
+    {
+      "user": "Lucas",
+      "rName": "Rudy's Bakery",
+      "address": "905 Seneca Avenue Ridgewood, NY 11385",
+      "favDish": "Jelly Doughnut",
+      "image": "https://i1.wp.com/www.cookedbyjulie.com/wp-content/uploads/2019/02/jelly-donut-one.jpg?resize=1200%2C1800&ssl=1",
+      "price": "3",
+      "comment": "best bakery in Ridgewood",
+      "id": 14
+    },
+    {
+      "user": "Clark",
+      "rName": "Arepera Guacuco",
+      "address": "44 Irving Ave, Brooklyn, NY 11237",
+      "favDish": "Pabellon",
+      "image": "https://live.staticflickr.com/5253/5512517158_84f138f4e9_b.jpg",
+      "price": "10",
+      "comment": "great Venezuelan food",
+      "id": 15
     }
   ]
 }
