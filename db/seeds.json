@@ -3,31 +3,142 @@
     {
       "id": 1,
       "user": "Pema",
-      "rname": "Five Senses",
-      "address": "9 W 32nd St, New York, NY 10001",
-      "favdish" : "Kimchi Fried Rice",
-      "price" : "$25",
-      "image" : "https://ibb.co/8zDdvdp" 
-      },
-      {
-      "id":2,
-      "user":"Max",
-      "rname": "Lhasa Fast Food",
+      "rName": "Lhasa Fast Food",
       "address": "76-03 37th Ave, Queens, NY 11372",
-      "favdish" : "Chives Dumpling",
-      "price" : "$8",
-      "image" : "https://infatuation.imgix.net/media/images/reviews/lhasa-fast-food/NoahDevereaux_LhasaFastFood_013_ChiveBeefMomo.JPG?auto=format&h=890&w=1336" 
-     },
-     {
-
-      "id":3,
-      "user":"Okera",
-      "rname": "Maman",
+      "favDish": "Chives Dumpling",
+      "price": "8",
+      "image": "https://infatuation.imgix.net/media/images/reviews/lhasa-fast-food/NoahDevereaux_LhasaFastFood_013_ChiveBeefMomo.JPG?auto=format&h=890&w=1336",
+      "comment": "Your daily dose of Garlic Breath"
+    },
+    {
+      "id": 2,
+      "user": "Okera",
+      "rName": "Maman",
       "address": "375 Hudson St, New York, NY 10014",
-      "favdish" : "ratatouille hash",
-      "price" : "$16",
-      "image" : "https://www.everylastbite.com/wp-content/uploads/2020/03/DSC_0138-scaled.jpg" 
+      "favDish": "ratatouille hash",
+      "price": "16",
+      "image": "https://www.everylastbite.com/wp-content/uploads/2020/03/DSC_0138-scaled.jpg",
+      "comment": "It's just like in that movie, about that mouse"
+    },
+    {
+      "id": 3,
+      "user": "Pema",
+      "rName": "Mamoun's",
+      "address": "119 MacDougal St, New York, NY 10012",
+      "favDish": "falafel",
+      "price": "5.49",
+      "image": "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/60ef265b44f3fFalafel_Sandwich_V2.jpg",
+      "comment": "Come for the falafel, stay to watch the NYU people"
+    },
+    {
+      "id": 4,
+      "user": "Pema",
+      "rName": "Peter Luger Steakhouse",
+      "address": "178 Broadway, Brooklyn, NY 11211",
+      "favDish": "porterhouse steak",
+      "price": "45",
+      "image": "https://i.redd.it/3c3ct8rb2nwz.png",
+      "comment": "I used to be a Vegetarian, but then I found Peter Luger"
+    },
+    {
+      "id": 5,
+      "user": "Max",
+      "rName": "Les Caves Bier & Kitchen",
+      "address": "308 SW 3rd St, Corvallis, OR 97333",
+      "favDish": "Bier-Chiese Soup",
+      "price": "10",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-p/0b/e8/ff/57/les-caves.jpg",
+      "comment": "It's...pretty dang decadent"
+    },
+    {
+      "user": "Max",
+      "rName": "Mike's",
+      "address": "328 DeKalb Ave, Brooklyn, NY, 11205",
+      "favDish": "Breakfast Special",
+      "image": "https://s3-media4.fl.yelpcdn.com/bphoto/VFDkG64cjXvFaZ9sCIvPUA/o.jpg",
+      "price": "5",
+      "comment": "Stands the test of time!",
+      "id": 6
+    },
+    {
+      "user": "Okera",
+      "rName": "Spicy Village",
+      "address": "68 Forsyth St",
+      "favDish": "Big Tray Chicken",
+      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F-OkKEimCXZXE%2FVK8TyKyQsZI%2FAAAAAAAA6kQ%2FfR_wHTfZYsg%2Fs1600%2FDSC_0005jk.JPG&f=1&nofb=1",
+      "price": "12",
+      "comment": "Worth an adventure!",
+      "id": 7
+    },
+    {
+      "user": "Gracie",
+      "rName": "Burp Castle",
+      "address": "41 E 7th St, New York, NY 10003",
+      "favDish": "Triweekly Free Pomme Frites",
+      "image": "https://images.nymag.com/listings/bar/mainburpcastle2.jpg",
+      "price": "0",
+      "comment": "The most chill bar of all time!",
+      "id": 8
+    },
+    {
+      "user": "Gracie",
+      "rName": "Crif Dogs",
+      "address": "113 St. Marks Pl, New York, NY, 10009",
+      "favDish": "Veggie Special",
+      "image": "https://www.villagevoice.com/wp-content/uploads/2014/09/veggiecrifdogs.jpg",
+      "price": "7",
+      "comment": "Impossible not to love",
+      "id": 9
+    },
+    {
+      "user": "Gracie",
+      "rName": "Dumpling Man",
+      "address": "100 St. Marks Pl, New York, NY 10009",
+      "favDish": "Sweet Dumplings",
+      "image": "https://fastly.4sqi.net/img/general/600x600/gah-ZJy4MiYagN4iLq90MYLCTTLoLHsG-WKxg5g0XaM.jpg",
+      "price": "5",
+      "comment": "Fast and delicious!",
+      "id": 10
+    },
+    {
+      "user": "Gracie",
+      "rName": "Cowgirls NYC",
+      "address": "519 Hudson St",
+      "favDish": "Frito Pie",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.sXmPYaTAo4isC5ZnvzymZwHaE8%26pid%3DApi&f=1",
+      "price": "10",
+      "comment": "Goes great with strawberry lemonade!",
+      "id": 11
+    },
+    {
+      "user": "Clark",
+      "rName": "Moinette",
+      "address": "221 Knickerbocker Ave, Brooklyn, NY 11237",
+      "favDish": "Salmon Bernaise",
+      "image": "https://images.squarespace-cdn.com/content/v1/5dfa653a930b9833ef36c5dc/1616788399782-NZHI7OADB7TT4DVFFUUG/IMG_0384.jpg?format=1000w",
+      "price": "25.49",
+      "comment": "excellent French food/brunch",
+      "id": 12
+    },
+    {
+      "user": "Lucas",
+      "rName": "Rudy's Bakery",
+      "address": "905 Seneca Avenue Ridgewood, NY 11385",
+      "favDish": "Jelly Doughnut",
+      "image": "https://i1.wp.com/www.cookedbyjulie.com/wp-content/uploads/2019/02/jelly-donut-one.jpg?resize=1200%2C1800&ssl=1",
+      "price": "3",
+      "comment": "best bakery in Ridgewood",
+      "id": 13
+    },
+    {
+      "user": "Clark",
+      "rName": "Arepera Guacuco",
+      "address": "44 Irving Ave, Brooklyn, NY 11237",
+      "favDish": "Pabellon",
+      "image": "https://live.staticflickr.com/5253/5512517158_84f138f4e9_b.jpg",
+      "price": "10",
+      "comment": "great Venezuelan food",
+      "id": 14
     }
-   ]
-  }
-  
+  ]
+}
